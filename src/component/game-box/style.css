@@ -1,0 +1,24 @@
+.box {
+  background-color: #000;
+  box-shadow: 0 0 1px 0 red;
+  color: #fff;
+  width: 100%;
+}
+.text-group {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card-box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+  gap: 1rem;
+  margin: 3rem 0;
+}
+.card {
+  width: 3rem;
+  height: 3rem;
+  background-color: gray;
+}
