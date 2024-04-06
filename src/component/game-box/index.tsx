@@ -2,7 +2,7 @@ import * as React from 'react';
 import './style.css';
 import PlayerCard from '../player-card';
 import GameBoard from '../game-board';
-import AppLogs from '../logs';
+import AppLogs from '../logs-game';
 
 // winning combination in
 /*
