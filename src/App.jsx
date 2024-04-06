@@ -1,6 +1,5 @@
 import GameBox from './component/game-box';
 import Header from './component/header';
-import AppLogs from './component/logs/inndex';
 
 function App() {
   return (
